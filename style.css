@@ -271,7 +271,7 @@ display: none;
   position: fixed;
   top: 10px;
    box-sizing: border-box;
-padding-top: 20px;
+padding-top: 30px;
   transition: 0.5s ease-in;
 
   z-index: 1000;
