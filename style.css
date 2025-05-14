@@ -270,7 +270,8 @@ display: none;
 .fixed {
   position: fixed;
   top: 10px;
-
+   box-sizing: border-box;
+padding-top: 20px;
   transition: 0.5s ease-in;
 
   z-index: 1000;
