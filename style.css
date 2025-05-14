@@ -265,13 +265,16 @@ display: none;
   background: white;
   border-radius: 5px;
   border: 1px solid black;
-}
 
+}
+#sec1in2{
+  
+}
 .fixed {
   position: fixed;
   top: 10px;
-   box-sizing: border-box;
-padding-top: 40px;
+  box-sizing: border-box;
+padding-top: 50px;
   transition: 0.5s ease-in;
 
   z-index: 1000;
